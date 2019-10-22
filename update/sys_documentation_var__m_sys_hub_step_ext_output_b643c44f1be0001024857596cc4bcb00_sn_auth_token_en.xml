@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="sn_auth_token" label="Credential Value" language="en" table="var__m_sys_hub_step_ext_output_b643c44f1be0001024857596cc4bcb00">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>sn_auth_token</element>
+            <help/>
+            <hint/>
+            <label>Credential Value</label>
+            <language>en</language>
+            <name>var__m_sys_hub_step_ext_output_b643c44f1be0001024857596cc4bcb00</name>
+            <plural/>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>venkat</sys_created_by>
+            <sys_created_on>2019-10-21 15:26:01</sys_created_on>
+            <sys_id>7a43c44f1be0001024857596cc4bcb0c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Credential Value</sys_name>
+            <sys_package display_value="IPInfo Spoke" source="x_265885_ipinfo_sp">be27efb21ba0001024857596cc4bcbc2</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="IPInfo Spoke">be27efb21ba0001024857596cc4bcbc2</sys_scope>
+            <sys_update_name>sys_documentation_var__m_sys_hub_step_ext_output_b643c44f1be0001024857596cc4bcb00_sn_auth_token_en</sys_update_name>
+            <sys_updated_by>venkat</sys_updated_by>
+            <sys_updated_on>2019-10-21 15:26:01</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

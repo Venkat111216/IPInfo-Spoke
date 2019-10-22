@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_alias">
+    <sys_alias action="INSERT_OR_UPDATE">
+        <connection_type>http_connection</connection_type>
+        <id>x_265885_ipinfo_sp.IPInfo_Alias</id>
+        <multiple_connections>false</multiple_connections>
+        <name>IPInfo_Alias</name>
+        <retry_policy display_value="Default HTTP Retry Policy">ef751ff07301330025d71afe2ff6a7f9</retry_policy>
+        <sys_class_name>sys_alias</sys_class_name>
+        <sys_created_by>venkat</sys_created_by>
+        <sys_created_on>2019-10-21 15:22:52</sys_created_on>
+        <sys_id>8842840f1be0001024857596cc4bcbc6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_265885_ipinfo_sp.IPInfo_Alias</sys_name>
+        <sys_package display_value="IPInfo Spoke" source="x_265885_ipinfo_sp">be27efb21ba0001024857596cc4bcbc2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="IPInfo Spoke">be27efb21ba0001024857596cc4bcbc2</sys_scope>
+        <sys_update_name>sys_alias_8842840f1be0001024857596cc4bcbc6</sys_update_name>
+        <sys_updated_by>venkat</sys_updated_by>
+        <sys_updated_on>2019-10-21 15:22:52</sys_updated_on>
+        <type>connection</type>
+    </sys_alias>
+</record_update>
